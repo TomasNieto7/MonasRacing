@@ -25,7 +25,7 @@ def main():
         elif opcion=="9":
             mostrar_logros()
         elif opcion=="10":
-            print("👋 Gracias por jugar. ¡Hasta pronto!")
+            print("👋 Gracias por jugar. ¡Nunca vuelva y vaya a apostar!")
             sys.exit()
         else:
             print("❌ Opción no válida")
